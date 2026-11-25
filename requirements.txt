@@ -1,0 +1,6 @@
+# PDF 转换（三个包版本必须一致）
+pymupdf==1.28.2
+pymupdf4llm==1.28.2
+pymupdf-layout==1.28.2
+# DOCX 转换需要 pandoc；系统未安装 pandoc 时可取消下一行注释，用 pip 附带的 pandoc
+# pypandoc_binary
